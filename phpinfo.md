@@ -13,6 +13,7 @@ The vulnerability located in the /install/index.php.
 When in the progress of installing.The systemdomain name control is not strict during installation, which can lead to PHP code executed.
 ## Payload
 1');phpinfo();#
+
 ![imgage](https://github.com/blackstar24/UCMS/blob/master/1536744755(1).png)
 ![imgage](https://github.com/blackstar24/UCMS/blob/master/ScreenClip%20%5B1%5D.png)
 ![imgage](https://github.com/blackstar24/UCMS/blob/master/9.png)
