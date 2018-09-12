@@ -1,6 +1,6 @@
 # # UCMS
 ## Vulnerability Name:XSS
-UCMS has SQL Injection in the installing file.
+UCMS has XSS in the installing file.
 ## Vulnerability version number:
 UCMS v1.4.6
 ## Vulnerability:
